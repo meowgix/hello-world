@@ -1,5 +1,5 @@
 ## Greetings World! 👽
-<sub>This was my very first repository.</sub>
+This was my very first repository.
 
 >I'm a former middle school science teacher who started studying data analytics & fell in love with programming. 
 
